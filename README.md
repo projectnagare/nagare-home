@@ -12,6 +12,25 @@ Nagare is not a neobank skin or a conventional CBS rewrite. It is a digital-bank
 
 The long-term goal is to build the complete stack **before** a standalone digital-bank licence exists in India, make it useful as an open banking platform and developer environment, and ensure that a future licensed institution can move from simulation to production by changing composition rather than rebuilding the bank.
 
+## What “Nagare” means
+
+**Nagare (流れ)** is Japanese for **flow** — and more broadly the course or progression of something moving through a system.
+
+That meaning is central to the project.
+
+A bank is, fundamentally, a system of flows: money moves between accounts, obligations move through settlement, applications move through decisions, information moves between institutions, and work moves between human and machine actors.
+
+Nagare is designed around making those flows explicit, composable and observable.
+
+The name also connects directly to the visual system:
+
+- **Paper** is the calm ground on which the institution is recorded.
+- **Ink** represents precision, permanence and financial truth.
+- **Blossom** is the warm accent — a small moment of arrival or change.
+- **Ma** — deliberate space — gives the system room to breathe rather than filling every surface with banking clutter.
+
+The name is therefore not decorative branding. It reflects the architecture: **a bank as a set of governed flows moving through stable contracts and replaceable capabilities.**
+
 ## Start here
 
 1. **[The Nagare Thesis](docs/vision/nagare-thesis.md)** — the complete intent behind the project.
