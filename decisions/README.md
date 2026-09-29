@@ -27,3 +27,4 @@ For larger proposals requiring discussion before acceptance, use an RFC in `/rfc
 - [0017 — Hosted Nagare is a complete bank sandbox](0017-hosted-nagare-sandbox.md)
 - [0018 — Mature banking systems inform the domain, not the UX](0018-apache-domain-inspiration.md)
 - [0019 — Access, policy and workflow remain separate primitives](0019-access-policy-workflow.md)
+- [0020 — Apache Fineract is a completeness benchmark, not the blueprint](0020-fineract-completeness-benchmark.md)
