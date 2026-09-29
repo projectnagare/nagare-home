@@ -1,12 +1,10 @@
 # Nagare Decision Log
 
-All major Project Nagare decisions should be recorded here.
-
-This log captures important product and architecture choices that are durable enough to affect multiple repositories or future contributors.
+All major Project Nagare decisions are recorded here.
 
 Use a decision record when a choice defines a project-wide principle, changes the bank model, changes a major product boundary, introduces a cross-repository convention, materially constrains future implementation, or resolves an important architectural alternative.
 
-For larger proposals requiring discussion before acceptance, use an RFC in /rfcs. Once accepted, the outcome should also be reflected in the decision log.
+For larger proposals requiring discussion before acceptance, use an RFC in `/rfcs`. Once accepted, its durable outcome should also appear in this log.
 
 ## Current decisions
 
@@ -24,3 +22,8 @@ For larger proposals requiring discussion before acceptance, use an RFC in /rfcs
 - [0012 — External applications connect as plugins](0012-external-apps-as-plugins.md)
 - [0013 — Internal UX must be excellent](0013-internal-ux.md)
 - [0014 — Major decisions live in nagare-home](0014-central-decision-record.md)
+- [0015 — Plugins are deployment-shape agnostic](0015-plugin-deployment-shape.md)
+- [0016 — Synthetic activity is deterministic and time-controllable](0016-deterministic-time-controllable-simulation.md)
+- [0017 — Hosted Nagare is a complete bank sandbox](0017-hosted-nagare-sandbox.md)
+- [0018 — Mature banking systems inform the domain, not the UX](0018-apache-domain-inspiration.md)
+- [0019 — Access, policy and workflow remain separate primitives](0019-access-policy-workflow.md)
